@@ -1,0 +1,5 @@
+Problem statement :
+Imagine you have call center with three levels of employees : respondent, manager and director.
+An incoming telephone call must be allocated first to a respondent who is free.
+If the respondent cant handle the call, it must be escalated to the manager.
+If the manager is not free or cannot handle the call, it must be escalated to the director.
